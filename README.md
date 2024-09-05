@@ -1,1 +1,1 @@
-minecraft srv 1.0
+#minecraft srv 1.0
